@@ -1,0 +1,5 @@
+node_modules
+.DSStore
+*.DSStore
+flow-typed
+.vscode
